@@ -73,7 +73,7 @@ function registration()
     }
     else
     {				                            
-           alert('Thank You for Login & You are Redirecting to a SoundNest adventure');
+           alert('Thank You for Login & You are Redirecting to a Main Page');
            window.location = "https://2147118joshua.github.io/git-github.com-2147118Joshua-School_Magmt_Sys_2.0/index.html"; 
     }
 }
